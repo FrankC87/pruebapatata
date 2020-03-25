@@ -6,7 +6,7 @@
  <html>
  <head>
 	<link rel="stylesheet" type="text/css" href="estilo.css"/>
-	<title>Ejemplo de XSLT usando todo tipo de condiciones</title>
+	<title>Antonio Lopez L</title>
   </head>
  <body>
    <h1>Mis Libros</h1>
