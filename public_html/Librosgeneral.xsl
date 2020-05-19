@@ -6,7 +6,7 @@
  <html>
  <head>
 	<link rel="stylesheet" type="text/css" href="estilo.css"/>
-	<title>Antonio Lopez L</title>
+	<title>PATATA</title>
   </head>
  <body>
    <h1>Mis Libros</h1>
